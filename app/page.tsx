@@ -1,3 +1,4 @@
+"use client"
 import React from "react";
 import PhotoGallery from "./Components/PhotoGallery";
 import axios from "axios";
